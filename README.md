@@ -1,4 +1,4 @@
-# Restaurant Sales Analysis
+# Analysis of Dannys Dinner
 🍽️ Dive into the world of restaurant sales! This project explores 🧾 customer spending patterns, 🍔 popular menu items, and 📊 customer loyalty insights.
 
 ## Background
